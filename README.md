@@ -1,16 +1,39 @@
-# stack_navigation
+# ☕ Coffee Shop App - Basic Stack Navigation
 
-A new Flutter project.
+A simple Flutter application that demonstrates stack navigation using `Navigator.push()` and `Navigator.pop()`.  
+The app features a coffee shop theme with a beautiful gradient background.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+| Home Screen | Detail Screen |
+|--------------|---------------|
+| ![Home Screen](screenshots/home.png) | ![Detail Screen](screenshots/detail.png) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- Two screens (Home + Details)
+- Stack navigation using Navigator.push() and Navigator.pop()
+- Coffee shop themed UI
+- Dark brown / green gradient design
+- Grid layout (3 columns)
+
+---
+
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- Navigator (Stack Navigation)
+- Git & GitHub
+
+---
+
+## 🚀 How to Run
+
+```bash
+flutter pub get
+flutter run
